@@ -21,4 +21,18 @@ Projekt indywidualny polegający na przetestowaniu witryny [jfwojciechowski.pl](
  - [przykładowe testy regresji](https://drive.google.com/file/d/1hLpBsJJt-l6jJn-YHbjMnyVSUZv3mA50/view?usp=sharing)
  - [podsumowanie](https://drive.google.com/file/d/1QWQpVLmvJXG9tnnIWs4MLaeFRt6mqk13/view?usp=sharing)
 
+## Umiejętności
+
+- wykonywanie testów manualnych  
+- testowanie dokumentacji  
+- pisanie przypadków testowych  
+- zgłaszanie błędów  
+- proponowanie usprawnień w działaniu aplikacji  
+
+
+## Narzędzia
+
+- Jira 
+- TestLink 
+- Mantis
  

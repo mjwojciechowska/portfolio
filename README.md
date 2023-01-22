@@ -13,8 +13,8 @@ Nazywam się Marianna Wojciechowska. Ukończyłam studia magisterskie na kierunk
 ## Projekty
 Projekt indywidualny polegający na przetestowaniu witryny [jfwojciechowski.pl](http://jfwojciechowski.pl/), w którego skład wchodzą:
 
- - [specyfikacja dla strony](https://drive.google.com/file/d/1hvrs9POdMsVEap-uT6TCbs4nbs6dVm5s/view?usp=sharing)
  - [wprowadzenie](https://drive.google.com/file/d/1sqJsi1PKin-ChpCDhs7Xl8RY3cAhsXMt/view?usp=sharing)
+ - [specyfikacja dla strony](https://drive.google.com/file/d/1hvrs9POdMsVEap-uT6TCbs4nbs6dVm5s/view?usp=sharing)
  - [mapa myśli](https://drive.google.com/file/d/1kNNMQSoNYV1QtIftKB2VSl2ZMO-1ICAJ/view?usp=sharing)
  - [przypadki testowe](https://drive.google.com/file/d/1mQqPZ_S94X-XlBcKpjOyY1kmz0S5I5lm/view?usp=sharing)
  - [zgłoszenia błędów](https://drive.google.com/file/d/1iOP-YJK_-M2-lsLPLKcPXOD9Dx1jsUIv/view?usp=sharing)

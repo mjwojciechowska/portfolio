@@ -6,9 +6,9 @@ Nazywam się Marianna Wojciechowska. Ukończyłam studia magisterskie na kierunk
 
 ## Kursy
 
+ - [Postman od podstaw – testowanie REST API – w trakcie](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
  - [CODE: ME – Podstawy testowania w praktyce](https://codeme.pl/)
  - [UDEMY – Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
- - [Postman od podstaw – testowanie REST API – w trakcie](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
 
 ## Projekty
 Projekt indywidualny polegający na przetestowaniu witryny [jfwojciechowski.pl](http://jfwojciechowski.pl/), w którego skład wchodzą:

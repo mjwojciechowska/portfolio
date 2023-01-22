@@ -2,7 +2,7 @@
 
 # O mnie
 
-Nazywam się Marianna Wojciechowska. Ukończyłam studia magisterskie na kierunku instrumentalistyka ze specjalizacją skrzypce w Akademii Muzycznej im. I.J. Paderewskiego w Poznaniu. Od jakiegoś czasu interesuję testowaniem oprogramowania. W grudniu 2022 roku ukończyłam kurs *Podstawy testowania w praktyce* organizowanym przez Fundację CODE:ME. W marcu będę zdawać egzamin na certyfikat ISTQB. Na tej stronie będę publikować moje dotychczasowe osiągnięcia, kursy i indywidualne projekty związane z testowaniem. 
+Nazywam się Marianna Wojciechowska. Ukończyłam studia magisterskie na kierunku instrumentalistyka ze specjalizacją skrzypce w Akademii Muzycznej im. I.J. Paderewskiego w Poznaniu. Od jakiegoś czasu interesuję testowaniem oprogramowania. W grudniu 2022 roku wzięłam udział w kursie *Podstawy testowania w praktyce* organizowanym przez Fundację CODE:ME. W marcu będę zdawać egzamin na certyfikat ISTQB. Na tej stronie będę publikować moje dotychczasowe osiągnięcia, kursy i indywidualne projekty związane z testowaniem. 
 
 ## Kursy
 

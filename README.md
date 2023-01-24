@@ -1,3 +1,4 @@
+# 
 # Portfolio
 
 # O mnie
@@ -12,14 +13,13 @@ Nazywam się Marianna Wojciechowska. Ukończyłam studia magisterskie na kierunk
 
 ## Projekty
 Projekt indywidualny polegający na przetestowaniu witryny [jfwojciechowski.pl](http://jfwojciechowski.pl/), w którego skład wchodzą:
-
- - [wprowadzenie]([https://drive.google.com/file/d/1sqJsi1PKin-ChpCDhs7Xl8RY3cAhsXMt/view?usp=sharing](https://drive.google.com/file/d/1J3NSRjJ1ltYxqHETzr2LvilPqi9D1U94/view?usp=sharing))
- - [specyfikacja dla strony](https://drive.google.com/file/d/1hvrs9POdMsVEap-uT6TCbs4nbs6dVm5s/view?usp=sharing)
+ - [wprowadzenie](https://drive.google.com/file/d/1J3NSRjJ1ltYxqHETzr2LvilPqi9D1U94/view?usp=sharing)
+ - [specyfikacja dla strony](https://drive.google.com/file/d/166kgpAyJAwRA7dTALhOJaSsDwb_t2Rgo/view?usp=sharing)
  - [mapa myśli](https://drive.google.com/file/d/1kNNMQSoNYV1QtIftKB2VSl2ZMO-1ICAJ/view?usp=sharing)
  - [przypadki testowe](https://drive.google.com/file/d/1mQqPZ_S94X-XlBcKpjOyY1kmz0S5I5lm/view?usp=sharing)
  - [zgłoszenia błędów](https://drive.google.com/file/d/1iOP-YJK_-M2-lsLPLKcPXOD9Dx1jsUIv/view?usp=sharing)
  - [przykładowe testy regresji](https://drive.google.com/file/d/1hLpBsJJt-l6jJn-YHbjMnyVSUZv3mA50/view?usp=sharing)
- - [podsumowanie](https://drive.google.com/file/d/1QWQpVLmvJXG9tnnIWs4MLaeFRt6mqk13/view?usp=sharing)
+ - [podsumowanie](https://drive.google.com/file/d/1lHBp0W0GVwQ2P4iR43l2Sakua5eDHyya/view?usp=sharing)
 
 ## Umiejętności
 
@@ -28,11 +28,3 @@ Projekt indywidualny polegający na przetestowaniu witryny [jfwojciechowski.pl](
 - pisanie przypadków testowych  
 - zgłaszanie błędów  
 - proponowanie usprawnień w działaniu aplikacji  
-
-
-## Narzędzia
-
-- Jira 
-- TestLink 
-- Mantis
- 

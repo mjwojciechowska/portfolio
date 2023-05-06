@@ -5,6 +5,9 @@
 
 Nazywam się Marianna Wojciechowska. Ukończyłam studia magisterskie na kierunku instrumentalistyka ze specjalizacją skrzypce w Akademii Muzycznej im. I.J. Paderewskiego w Poznaniu. Od jakiegoś czasu interesuję testowaniem oprogramowania. W listopadzie i grudniu 2022 roku wzięłam udział w kursie *Podstawy testowania w praktyce* organizowanym przez Fundację CODE:ME. W kwietniu będę zdawać egzamin na certyfikat ISTQB. Na tej stronie publikuję moje najnowsze osiągnięcia, kursy i indywidualne projekty związane z testowaniem. 
 
+## Certyfikaty
+ - ISTQB Certified Tester Foundation Level - No20329/CTFL/2023
+
 ## Kursy
 
  - [Kurs SQL od podstaw – w trakcie](https://www.udemy.com/course/kurs-sql-od-podstaw/)
